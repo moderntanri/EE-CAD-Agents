@@ -1,0 +1,32 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+secrets/
+credentials/
+
+# Private implementation (keep in a separate private repository)
+private/
+internal/
+src/
+agents/
+*.lsp
+*.fas
+*.vlx
+*.dwg
+*.dxf
+
+# Local / build artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+dist/
+build/
+*.log
+*.bak
+*.tmp
