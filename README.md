@@ -1,3 +1,7 @@
+<p align="center"><img src=".github/assets/cover.svg" alt="EE CAD Agents — Electrical drafting. Thoughtful automation." width="100%"></p>
+
+<p align="center"><a href="docs/WORKFLOWS.md">Workflows</a> &nbsp;·&nbsp; <a href="docs/STATUS.md">Development status</a></p>
+
 # EE-CAD-Agents
 
 **Electrical drafting. DWG automation. Agent-assisted workflows.**
