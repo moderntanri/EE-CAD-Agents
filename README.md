@@ -1,9 +1,3 @@
-<p align="center"><img src=".github/assets/cover.svg" alt="EE CAD Agents — Electrical drafting. Thoughtful automation." width="100%"></p>
-
-<p align="center"><a href="PROJECT.md"><b>Problem &amp; engineering decisions</b></a> · <a href="https://github.com/moderntanri/moderntanri/tree/main/notes">Engineering notes</a></p>
-
-<p align="center"><a href="docs/WORKFLOWS.md">Workflows</a> &nbsp;·&nbsp; <a href="docs/STATUS.md">Development status</a></p>
-
 # EE-CAD-Agents
 
 **Electrical drafting. DWG automation. Agent-assisted workflows.**
@@ -38,3 +32,5 @@ Source availability and release terms will be stated explicitly if a release is 
 ---
 
 © 2026 EE-CAD-Agents. All rights reserved.
+
+[Kaynakta nereden başlamalı?](PROJECT.md)
